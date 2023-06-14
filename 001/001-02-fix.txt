@@ -1,0 +1,70 @@
+Constructio linearum isochronarum in medio quocunque resistente
+Autore Leonhardo Eulero, Basileensi.
+
+Notum est inter Geometras cycloidem ordinariam esse in medio non resistente isochronam seu tautochronam,
+vi gravitatis uniformiter versus centrum infinitae distantiae tendente.
+In medioque pro simplici celeritatum ratione resistente, isochronam esse eandem cycloidem,
+ostendit summus Newtonus in principiis suis Philosophiae Naturalis Lib. II Prop 6. Oppidoutem miror,
+neminem adhuc quicquam de isochronis in aliis mediis resistente hypothesibus,
+non imaginariis, quemadmodum sunt hae ductae dictae, meditatum fuisse;
+cum tamen haec egregia materia bene mereatur, quae in scientiae de motu corporum in medio resistente augmentum profundius examinetur:
+Ego, quae hactenus reperi, quasque feliciter detexi curvas tautochronas in medio quomodocunque resistente,
+centro virium infinite distante et uniformiter attrahente,
+his cum publico communicabo ut orbi literario ansam praebeant;
+hanc materiam penitius perscrutandi.
+
+Ut igitur modum generalissimum hujusmodi lineas isochronas construendi tradam:
+restat medium in ratione cujusvis functionis celeritatis,
+et pro hac amplissima hypothese, sic construo isochronam.
+
+Sit AB linea verticalis, seu normalis in planum horizontalis;
+super hac, tanquam axe, describatur curva AND talis, ut,
+data absissa AP x huic applicata normali PN z et ipsius functione quadam,
+Z, quae eandem ad z habeat rationem quam habet illa functio celeritatis,
+seu dum qua fit resistantia, ad ipsam celeritatem, ut inquam sit dx = zdz + Z dz:
+Hac curva facta, construatur alia AMC, super eodem axe AB, ut, producta NP in M,
+sit portio curvae AM aequalis applicatae PN.
+Erit haec curva CMA isochrona, corpus scilicet super ea, solo gravitati nisi, descendens,
+in quocunque ejus puncto M descensum adorsum fuerit,
+semper aequali tempore ad punctum A perveniet.
+
+Ex hac constructione consequitur, curvas hasce habere alicubi in C cuspidem,
+et reverti in plagam, ex qua venerant, id quod accidere debet, ubi elementum applicatae PM evanescit,
+elementum vero hoc aequatur dz - dx, ob AM = PN = z, sed quia dx = zdz + Z dz,
+erit dz - dx = -Z dz, quod debet aequari nullo, erit ergo Z = 0, ibi ergo est cuspis,
+ubi functio + Z aequatur unitati.
+
+Haec ergo curva eandem cum Cycloide habebit formam,
+habebit enim infinitos cuspidem & portiones cuspidis constituéntes omnes inter se similes & aequales,
+nam producta PM in merito legibus partes ergo AMC, in cuspidem C constituéntes quales erunt et similes.
+Proinde ex constructione puncto F, puncto A respondenti, adnectetur portio similis,
+aequalis et similiter posita in AMC. Sic quoque, curva CMA continuata, erit AB diameter,
+eandem ergo plane cum cycloide ordinaria habebit formam.
+
+Ut applicemus hanc generalissimam constructionem ad hypotheses speciales;
+ponatur resistentia nulla, erit Z = 0, ergo dx = zdz,
+i.e. ax = zz, unde curva AND erit parabola Apolloniana.
+Erit ergo isochrona AMC cyclois ordinaria, uti Hugenius jam demonstravit.
+
+Ponamus resistentiam celeritati proportionalem, erit Z = z, unde dx = dz, i.e. x = zz,
+curva ergo AND erit denuo parabola et consequenter isochrona rursus cyclois,
+quemadmodum Newtonus loco citato demonstravit.
+
+Sit Resistentia ut quadratum celeritatis, quae hypothese locum habet in aere, aqua,
+omnibusque fere fluidis, erit Z = azz, unde dx = zdz + azz dz, ergo x = zz + az^3,
+ex qua curva, ut supra docui, construi poterit isochrona.
+Quantitas, a, eomajor est rationalis assumi debet, quanti tati resistentiae.
+
+Et hac ratione pro quavis hypothese resistentiarum excogitabili isochrona,
+methodo hac generali, facile deduci poterit; gravitate uniformiter agente.
+Pro aliis autem gravitatis hypothesibus, in medio quovis utunque resistente,
+etiam possideo methodum construendi isochronas; quam autem, ut et eorum,
+quae hic protempus differo proponens interim cultoribus scientiae hujus de ab hac materia haud multum abfudit.
+
+Invenire lineam celerissimi descensus, seu brachystochropothesi gravitatis uniformi.
+
+P.S. Non possum, quin indico Anonymo illi Anglo, cui jam per aliquantum temporis cum Celeb.
+Johanne Bernoulli circa trajectorias res est, me adinvenisse methodum ex quolibet linearum ordine,
+excepto secundo, ad minimam unam determinandi curvam problemati illi de trajectoriis reciprocis satisfacientem,
+quam, uno elapso anno, revelaturus ero, quo Anglo illi non desit tempus trajectoriam reciprocam,
+quam inveniendam ipse proposuit Cel. Bernoulli, simplicissimam post illam tertii ordinis quam invenire potuerit, publice indicandi.

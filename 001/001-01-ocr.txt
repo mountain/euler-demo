@@ -1,0 +1,92 @@
+Consiructiq linearum isochrgnarum in medio quocunque refiftente
+Autore Leonhardo Eulero, Bafileenfi.
+
+NOtum eft inter Geometras cycloidem ordinariam effe in me-
+dio non refiftente ifochronain feu tautochronam,yi gravi-
+tatisuniforniter verfuscentruminfinitediftans tendente. In me-
+diuoque pro fiplici celeritatum atione refiftente,ifochr-
+nameffeeandem cyloidem, oftendit ir fummus,Newtonus in
+principis fuis Philofophix Naturalis Lib.II Prop 6. Oppido
+utemmiror, neminem adhuc qúcquam deiföchronis in alis
+medi refiftentis hypöthefibus, nönimaginariis, quemadmodum
+funthædux di&x, meditatum fuiffe; cum tamen hæc egregia
+materia bene mereatur, qux in fcientiæ de mot corporum in
+medio refiftente augmentum profundius examinetur: Ego,
+quæ hacin reinveni, quasque feliciter detexi curvas tautochronas
+innedio quomodocunqu refiftente, centr virium infinite di
+ftante& niformiter ttrahente, hi cum publico commuhicabo
+útorbi literario-anfam præbeain; hanc nateriain penitius'per-
+ fcrutandi.
+
+Ut igitar modum generalifinum hujusmodi lineasifchro-
+nas conftruendi tradam: refftat medium in ratione'cujusvis
+funtioniscelritatis,& pro hac anpliffima hypothef, fic con
+ ftruo ifochronam.
+
+Sit AB linea verticalis, feu normalis in planumliorizoátis;
+fúperhac,tanquam axe,defcribatur cuirvaANDtalis, ut; ditis
+abfiffaAPx huic appliata ormali PNz&ipfus functione
+quadam,Z, qux eandem adz habeat ratiónemi quam habetilla
+funti celeritatis, feudum qun fit refiftentia, ád ipfam ce-
+leritatem, utinquan ft dx=ždz+Z dz: Hac curva facta, co-
+ftruaturala AMC,fuper codem axeAB,ut, produtaNP inM, fit
+portio curvæ AM xqualis ápplicatx PN. Erit hæc curva CMA
+ifochrona, corpus fcilicet fuperea, fologravitati nifi, defcen-
+dens, in quocunque ejus puntoM defcenfum adorfum fuerit,
+femper xquali tempore ad punetum A perveniet.
+
+Exhac conftrctione confequitur, curvas hafce habere ali-
+cubi inCcufpidein, & reverti in plagam,exqua venerant, id quod
+accidere debet, ubi elementum applicatæPM evanefcit, élemén-
+tum verö hoc xquaturdz-dx3,obAM=PN=z fed quia dx=
+zdz+Z dz, eritrdz-dx=i=dzr1-(z+Z) quod debet xquari
+ziphrx, erit ergoz+=i, ibi ergo efcufpis, ubi funna+Z
+ xquatur unitati.
+
+Hæcergo curva éandem cum Cycloide habebit formam, ha-
+bebit enim infinitos cufpides & portiones cufpies contituéntes
+omnesinterfe fimiles& xquales, nan produtaPMinmerit le-
+partes ergo AMC,FmCcufpiden Cconftituentes quales erint
+& fimiles. Proin exconfructjöne punto F,puntoArefpon-
+denti, adnecteturportiofimilis, xqualis& fimiliter pofita m
+AMC. Sic quoque, curva CMA continuata, erit AB diameter,
+andem ergo plane cum cycloide ordinaria habebit formam.
+
+Ut applicemus hanc generaleim conftructionem ad hypothe-
+fesfpeciales; ponaturrefiftentia nulla, erit =9 ergo d=zdz,
+i.e. ax=zz, unde curva AND erit parabola Apolloniana. Erit
+érgo ifehrona AMC cyelois ordinaria, uti Hugenius jam demon-
+ftravit.
+
+Ponanušrefiftentiam celeritati proportionalein, erit Z=z,
+undedx=dz,ie. x=zz, curva ergoANDerit denuo parabola
+& confequenter ifochrona rurfus cyelois, .quemadinodum New-
+ tonus lococitato demonftravit.
+
+Sit Refitentiaut quadratum celeritatis, qux hypothefis lo-
+cumhabet in aere, aqua, onnibusque ferefuidis, eritZ=azz,
+unde dx=zdz+azzdzergox=zz+az3,ex qua cutva, nt fu-
+prá docui, coifrui poteritifochrona. Qantitas, a,eomajor eft
+tionalis affumi debet.quanti tati refiftentix.
+
+Et hac ratione pro quavis hypothefi refiftentiarum excogita-
+bliifochrona, methodóhaê genérali, fcile deduci poterit; gra
+vitate uniforniteragente.Prö alis autemgravitatis hypothefbus,
+in médio quoue utunqe reftente, etiampoffideoinethódm
+conftruendi ifchronas; quam autem, ut & eorum, quæ hic pro-
+tempus differoproponensinterimcultoribus fientiæ hujus de
+ ab hac materiahaud multuin.abludit.
+
+Invenire lineamceierrimi defcenfus, feu brachyftochro-
+. pothefi gravitatis uiformi.
+
+P.S. Non poffum, quin indicum Anonymo illi Anglo, cui jam
+per aliquantum temporis cum Celeb, Johanne Bernoulli
+circa trajectorias res eft, me adinveniffe metho-
+dum ex quolibet linearúm ordine, exceptofecundo, ad mi-
+nimun únam deterninaridi curvam problemati illi de tra
+jectoriis reciprocis fatisfacientem, quam; uno elapfo anno,
+revelaturus ero, quo Anglo illi non defit tempus trajecto
+riam reciprocam, quam inveniendam ipff propofuit Cel.
+Bernoulli, fimplicifimam poft illam tertii rdinis quam
+. invenire potuerit, publiceindicandi.
